@@ -1,4 +1,3 @@
-#!/bin/python3
 '''
 Task 
 Given an integer, , perform the following conditional actions:
